@@ -1,5 +1,5 @@
 {
-  "name": "feathers-sequelize",
+  "name": "@boardgent/feathers-sequelize",
   "description": "A service adapter for Sequelize an SQL ORM",
   "version": "6.2.0",
   "homepage": "https://github.com/feathersjs-ecosystem/feathers-sequelize",
@@ -20,7 +20,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/feathersjs-ecosystem/feathers-sequelize.git"
+    "url": "git://github.com/Boardgent/feathers-sequelize.git"
   },
   "author": {
     "name": "Feathers contributors",
